@@ -23,7 +23,7 @@ Entre os principais objetivos estão:
 📄 Licença
 
 Este projeto está licenciado sob os termos da licença MIT.  
-Consulte o arquivo [LICENSE](LICENSE) para mais informações.
+Consulte o arquivo [LICENSE](LICENSE.txt) para mais informações.
 
 ---
 
