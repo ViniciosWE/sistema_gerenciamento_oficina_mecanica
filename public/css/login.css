@@ -1,0 +1,14 @@
+main{
+    background-image: linear-gradient(135deg, #b30000, #000);
+    height: 100vh;
+}
+.login-card{
+    border-radius: 15px;
+    width: 100%;
+    max-width: 400px;
+}
+
+ img{
+     height: 200px;
+ }
+
