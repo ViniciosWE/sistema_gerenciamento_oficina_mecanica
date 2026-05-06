@@ -14,7 +14,7 @@
 <body>
     <div class="d-flex min-vh-100">
         <aside class="sidebar">
-            <img src="{{ asset('img/logo.png') }}" alt="Logo da oficina">
+            <img src="{{ asset('img/Logo.png') }}" alt="Logo da oficina">
 
             <nav class="nav flex-column">
 

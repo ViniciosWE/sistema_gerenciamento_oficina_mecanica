@@ -12,7 +12,7 @@
 
 <body>
     <main class="d-flex flex-column align-items-center justify-content-center">
-        <img src="{{ asset('img/logo.png') }}" alt="Logo da Oficina">
+        <img src="{{ asset('img/Logo.png') }}" alt="Logo da Oficina">
 
         <div class="card login-card shadow p-4">
             <h3 class="text-center mb-4">Área de Login</h3>
